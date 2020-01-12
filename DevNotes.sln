@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevNotes", "DevNotes\DevNotes.csproj", "{19688507-76DB-4742-B671-2169468DEF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevNotesConsole", "DevNotesConsole\DevNotesConsole.csproj", "{1884A27E-9384-41C3-80D2-801B0FBF99C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19688507-76DB-4742-B671-2169468DEF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19688507-76DB-4742-B671-2169468DEF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19688507-76DB-4742-B671-2169468DEF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19688507-76DB-4742-B671-2169468DEF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1884A27E-9384-41C3-80D2-801B0FBF99C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1884A27E-9384-41C3-80D2-801B0FBF99C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1884A27E-9384-41C3-80D2-801B0FBF99C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1884A27E-9384-41C3-80D2-801B0FBF99C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF75E5D8-BF10-4DF7-8FA9-63D0040FD6BC}
+	EndGlobalSection
+EndGlobal
